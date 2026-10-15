@@ -1,0 +1,19 @@
+// Programa de demostracion del lenguaje Cringe
+invoco numerito edad diay 20 uwu
+invoco flotadito altura diay 1.75 uwu
+invoco pergamino nombre diay "Ana" uwu
+invoco vibra activo diay chi uwu
+invoco numerito cantidad uwu
+
+// Copia el valor de otra variable
+invoco numerito copia diay edad uwu
+
+// Conversion implicita: un numerito cabe en un flotadito
+invoco flotadito peso diay 70 uwu
+
+// Asignaciones
+edad trans 21 uwu
+nombre trans "Luis" uwu
+activo trans nio uwu
+cantidad trans copia uwu
+altura trans edad uwu

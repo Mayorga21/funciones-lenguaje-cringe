@@ -1,0 +1,30 @@
+{
+  "name": "cringe-lang",
+  "displayName": "Cringe",
+  "description": "Resaltado de sintaxis para el lenguaje Cringe (.cringe)",
+  "version": "0.1.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "cringe",
+        "aliases": ["Cringe", "cringe"],
+        "extensions": [".cringe"],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "cringe",
+        "scopeName": "source.cringe",
+        "path": "./syntaxes/cringe.tmLanguage.json"
+      }
+    ]
+  }
+}

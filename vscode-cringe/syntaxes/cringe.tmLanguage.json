@@ -1,0 +1,44 @@
+{
+  "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+  "name": "Cringe",
+  "scopeName": "source.cringe",
+  "patterns": [
+    { "include": "#comentario" },
+    { "include": "#cadena" },
+    { "include": "#tipo" },
+    { "include": "#palabra-clave" },
+    { "include": "#booleano" },
+    { "include": "#decimal" },
+    { "include": "#entero" }
+  ],
+  "repository": {
+    "comentario": {
+      "name": "comment.line.double-slash.cringe",
+      "match": "//.*$"
+    },
+    "cadena": {
+      "name": "string.quoted.double.cringe",
+      "match": "\"[^\"\\n]*\""
+    },
+    "tipo": {
+      "name": "storage.type.cringe",
+      "match": "\\b(numerito|flotadito|pergamino|vibra|vacio)\\b"
+    },
+    "palabra-clave": {
+      "name": "keyword.control.cringe",
+      "match": "\\b(invoco|trans|diay|uwu|hechizo|lanza|regreso|narro)\\b"
+    },
+    "booleano": {
+      "name": "constant.language.cringe",
+      "match": "\\b(chi|nio)\\b"
+    },
+    "decimal": {
+      "name": "constant.numeric.float.cringe",
+      "match": "\\b[0-9]+\\.[0-9]+\\b"
+    },
+    "entero": {
+      "name": "constant.numeric.integer.cringe",
+      "match": "\\b[0-9]+\\b"
+    }
+  }
+}
