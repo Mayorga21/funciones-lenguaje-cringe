@@ -1,0 +1,5 @@
+// codigo: 3
+// mensaje: el hechizo 'f' devuelve 'numerito' pero se intenta devolver un valor 'pergamino'
+hechizo f() lanza numerito {
+    regreso "hola" uwu
+}

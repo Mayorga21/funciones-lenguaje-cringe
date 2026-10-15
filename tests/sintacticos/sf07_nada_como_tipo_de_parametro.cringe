@@ -1,0 +1,4 @@
+// codigo: 2
+// mensaje: se encontró vacio
+hechizo f(vacio x) lanza vacio {
+}

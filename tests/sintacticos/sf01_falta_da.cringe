@@ -1,0 +1,5 @@
+// codigo: 2
+// mensaje: se encontró numerito, se esperaba lanza
+hechizo f() numerito {
+    regreso 1 uwu
+}

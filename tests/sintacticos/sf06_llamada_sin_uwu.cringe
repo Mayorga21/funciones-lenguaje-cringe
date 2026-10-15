@@ -1,0 +1,5 @@
+// codigo: 2
+// mensaje: se esperaba uwu
+hechizo f() lanza vacio {
+}
+f()

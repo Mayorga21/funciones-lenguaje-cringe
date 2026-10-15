@@ -1,0 +1,6 @@
+// codigo: 0
+// mensaje: regreso 3.0  [evolución implícita de numerito a flotadito]
+hechizo comoFlotante(numerito n) lanza flotadito {
+    regreso n uwu
+}
+invoco flotadito f diay comoFlotante(3) uwu

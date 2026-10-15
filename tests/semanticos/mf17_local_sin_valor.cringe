@@ -1,0 +1,6 @@
+// codigo: 3
+// mensaje: la variable 'x' se usa sin tener un valor asignado
+hechizo f() lanza numerito {
+    invoco numerito x uwu
+    regreso x uwu
+}

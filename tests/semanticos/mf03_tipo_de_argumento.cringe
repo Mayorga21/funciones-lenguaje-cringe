@@ -1,0 +1,5 @@
+// codigo: 3
+// mensaje: argumento 1 de 'f': se esperaba 'numerito' pero se recibió 'pergamino'
+hechizo f(numerito a) lanza vacio {
+}
+f("hola") uwu

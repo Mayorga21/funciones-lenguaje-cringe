@@ -1,0 +1,8 @@
+// codigo: 0
+// mensaje: línea 7: lanzo eco("a")
+// mensaje: línea 8: lanzo eco("b")
+hechizo eco(pergamino t) lanza pergamino {
+    regreso t uwu
+}
+invoco pergamino a diay eco("a") uwu
+invoco pergamino b diay eco("b") uwu

@@ -1,0 +1,3 @@
+// codigo: 3
+// mensaje: el hechizo 'saludar' no fue declarado (debe declararse antes de lanzarlo)
+saludar("a") uwu

@@ -1,0 +1,5 @@
+// codigo: 3
+// mensaje: el hechizo 'f' espera 2 argumento(s) pero recibió 1
+hechizo f(numerito a, numerito b) lanza vacio {
+}
+f(1) uwu
