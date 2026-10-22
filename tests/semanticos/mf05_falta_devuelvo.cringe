@@ -1,5 +1,0 @@
-// codigo: 3
-// mensaje: el hechizo 'f' debe devolver un valor 'numerito' (falta 'regreso')
-hechizo f() lanza numerito {
-    narro 1 uwu
-}

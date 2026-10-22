@@ -1,8 +1,0 @@
-// codigo: 0
-// mensaje: y (numerito) <- 7
-// el parametro x de f no toca la variable global x
-invoco numerito x diay 1 uwu
-hechizo f(numerito x) lanza numerito {
-    regreso x uwu
-}
-invoco numerito y diay f(7) uwu

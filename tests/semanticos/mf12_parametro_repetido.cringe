@@ -1,4 +1,0 @@
-// codigo: 3
-// mensaje: el ingrediente 'a' está repetido
-hechizo f(numerito a, pergamino a) lanza vacio {
-}

@@ -1,6 +1,0 @@
-// codigo: 0
-// mensaje: r (numerito) <- 1
-hechizo uno() lanza numerito {
-    regreso 1 uwu
-}
-invoco numerito r diay uno() uwu

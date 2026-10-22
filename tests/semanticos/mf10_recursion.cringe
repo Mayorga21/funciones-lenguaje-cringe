@@ -1,5 +1,0 @@
-// codigo: 3
-// mensaje: el hechizo 'f' no puede lanzarse a sí mismo
-hechizo f() lanza vacio {
-    f() uwu
-}

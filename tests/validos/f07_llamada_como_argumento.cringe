@@ -1,7 +1,0 @@
-// codigo: 0
-// mensaje: lanzo identidad(5)
-// mensaje: z (numerito) <- 5
-hechizo identidad(numerito n) lanza numerito {
-    regreso n uwu
-}
-invoco numerito z diay identidad(identidad(5)) uwu

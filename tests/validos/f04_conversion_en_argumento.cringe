@@ -1,6 +1,0 @@
-// codigo: 0
-// mensaje: numerito a flotadito
-hechizo mostrar(flotadito x) lanza vacio {
-    narro x uwu
-}
-mostrar(5) uwu

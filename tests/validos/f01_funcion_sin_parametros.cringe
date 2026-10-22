@@ -1,7 +1,0 @@
-// codigo: 0
-// mensaje: lanzo hola()
-// mensaje: Salida del programa
-hechizo hola() lanza vacio {
-    narro "hola" uwu
-}
-hola() uwu

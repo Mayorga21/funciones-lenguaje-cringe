@@ -1,6 +1,0 @@
-// codigo: 2
-// mensaje: se encontró hechizo
-hechizo f() lanza vacio {
-    hechizo g() lanza vacio {
-    }
-}

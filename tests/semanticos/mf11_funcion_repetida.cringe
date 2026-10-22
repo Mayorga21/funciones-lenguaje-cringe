@@ -1,6 +1,0 @@
-// codigo: 3
-// mensaje: el hechizo 'f' ya fue declarado en la línea 3, columna 9
-hechizo f() lanza vacio {
-}
-hechizo f() lanza vacio {
-}

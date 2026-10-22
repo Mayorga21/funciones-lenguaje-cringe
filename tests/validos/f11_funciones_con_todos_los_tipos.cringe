@@ -1,6 +1,0 @@
-// codigo: 0
-// mensaje: lanzo todo(1, 2.5, "x", chi)
-hechizo todo(numerito a, flotadito b, pergamino c, vibra d) lanza vibra {
-    regreso d uwu
-}
-narro todo(1, 2.5, "x", chi) uwu

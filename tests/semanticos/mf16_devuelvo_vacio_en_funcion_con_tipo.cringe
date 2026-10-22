@@ -1,5 +1,0 @@
-// codigo: 3
-// mensaje: debe devolver un valor 'numerito', pero este 'regreso' no trae ninguno
-hechizo f() lanza numerito {
-    regreso uwu
-}

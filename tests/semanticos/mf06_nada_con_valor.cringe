@@ -1,5 +1,0 @@
-// codigo: 3
-// mensaje: el hechizo 'f' es de tipo 'vacio' y no puede devolver un valor
-hechizo f() lanza vacio {
-    regreso 1 uwu
-}

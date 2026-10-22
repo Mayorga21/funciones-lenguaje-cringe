@@ -1,5 +1,0 @@
-// codigo: 3
-// mensaje: el hechizo 'f' no fue declarado (debe declararse antes de lanzarlo)
-f() uwu
-hechizo f() lanza vacio {
-}
