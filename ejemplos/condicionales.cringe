@@ -1,0 +1,41 @@
+// Condicionales en Cringe: shi (si) y sino (si no)
+// La condicion va entre parentesis y debe ser de tipo vibra.
+// Comparaciones: ==  !=  <  >  <=  >=     Logica: &&  ||  !
+
+invoco numerito nivel diay 42 uwu
+invoco pergamino clase diay "mago" uwu
+
+// Un shi con sino encadenado
+shi (nivel >= 90) {
+    narro "rango S" uwu
+} sino shi (nivel >= 40 && clase == "mago") {
+    narro "rango B, mago del gremio" uwu
+} sino {
+    narro "rango F" uwu
+}
+
+// Las variables de un bloque solo existen dentro de sus llaves
+shi (nivel > 0) {
+    invoco pergamino aviso diay "el bloque termina aqui" uwu
+    narro aviso uwu
+}
+
+// Un hechizo que decide con shi y devuelve en todos los caminos
+hechizo etiqueta(numerito poder) lanza pergamino {
+    shi (poder > 50) {
+        regreso "fuerte" uwu
+    } sino {
+        regreso "debil" uwu
+    }
+}
+
+// Recursion: ahora es posible porque el shi puede detenerla
+hechizo cuenta(vibra seguir) lanza vacio {
+    narro "tick" uwu
+    shi (seguir) {
+        cuenta(nio) uwu
+    }
+}
+
+narro etiqueta(nivel) uwu
+cuenta(chi) uwu
