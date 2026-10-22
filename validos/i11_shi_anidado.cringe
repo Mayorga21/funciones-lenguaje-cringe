@@ -1,0 +1,13 @@
+// codigo: 0
+// mensaje: fuerte y rapido
+invoco numerito f diay 10 uwu
+invoco numerito v diay 8 uwu
+shi (f > 5) {
+    shi (v > 5) {
+        narro "fuerte y rapido" uwu
+    } sino {
+        narro "fuerte y lento" uwu
+    }
+} sino {
+    narro "debil" uwu
+}

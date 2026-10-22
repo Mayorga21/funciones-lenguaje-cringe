@@ -1,0 +1,19 @@
+// codigo: 0
+// mensaje: a (vibra) <- chi
+// mensaje: f (vibra) <- chi
+// mensaje: l (vibra) <- chi
+// mensaje: m (vibra) <- chi
+// mensaje: numerito a flotadito
+invoco vibra a diay 1 == 1 uwu
+invoco vibra b diay 1 != 1 uwu
+invoco vibra c diay 2 < 1 uwu
+invoco vibra d diay 2 > 1 uwu
+invoco vibra e diay 2 <= 1 uwu
+invoco vibra f diay 2 >= 2 uwu
+invoco vibra g diay 1 == 1.0 uwu
+invoco vibra h diay 1.5 > 1 uwu
+invoco vibra i diay "ana" == "ana" uwu
+invoco vibra j diay "ana" != "luis" uwu
+invoco vibra k diay chi == nio uwu
+invoco vibra l diay chi != nio uwu
+invoco vibra m diay 3 >= 2.5 uwu

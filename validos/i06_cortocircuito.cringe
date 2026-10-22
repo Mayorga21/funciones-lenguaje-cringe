@@ -1,0 +1,11 @@
+// codigo: 0
+// mensaje: lanzo ruido()
+// mensaje: narro "ruido"
+// mensaje: a (vibra) <- nio
+hechizo ruido() lanza vibra {
+    narro "ruido" uwu
+    regreso chi uwu
+}
+invoco vibra a diay nio && ruido() uwu
+invoco vibra b diay chi || ruido() uwu
+invoco vibra c diay chi && ruido() uwu

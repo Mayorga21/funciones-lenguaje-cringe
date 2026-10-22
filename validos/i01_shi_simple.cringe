@@ -1,0 +1,10 @@
+// codigo: 0
+// mensaje: shi se cumple (chi)
+// mensaje: shi no se cumple (nio)
+invoco numerito edad diay 20 uwu
+shi (edad >= 18) {
+    narro "mayor" uwu
+}
+shi (edad < 18) {
+    narro "menor" uwu
+}

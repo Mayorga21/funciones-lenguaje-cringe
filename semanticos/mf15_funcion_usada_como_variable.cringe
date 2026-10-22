@@ -1,0 +1,6 @@
+// codigo: 3
+// mensaje: 'f' es un hechizo, no una variable
+hechizo f() lanza numerito {
+    regreso 1 uwu
+}
+invoco numerito y diay f uwu

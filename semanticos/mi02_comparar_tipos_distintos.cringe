@@ -1,0 +1,7 @@
+// codigo: 3
+// mensaje: no se puede comparar un valor 'numerito' con un valor 'pergamino'
+// mensaje: no se puede comparar un valor 'vibra' con un valor 'numerito'
+shi (3 == "tres") {
+    narro "nunca" uwu
+}
+invoco vibra b diay chi == 1 uwu

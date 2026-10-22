@@ -1,0 +1,16 @@
+// codigo: 0
+// mensaje: t (numerito) <- 1
+// mensaje: t (numerito) <- 2
+// mensaje: t (pergamino) <- "libre"
+invoco numerito n diay 1 uwu
+shi (n == 1) {
+    invoco numerito t diay 1 uwu
+} sino {
+    invoco numerito t diay 2 uwu
+}
+shi (n == 2) {
+    invoco numerito t diay 2 uwu
+} sino {
+    invoco numerito t diay 2 uwu
+}
+invoco pergamino t diay "libre" uwu

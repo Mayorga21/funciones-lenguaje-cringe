@@ -1,0 +1,8 @@
+// codigo: 3
+// mensaje: código inalcanzable: el hechizo 'f' ya terminó en un 'regreso' anterior
+hechizo f(vibra c) lanza vacio {
+    shi (c) {
+        regreso uwu
+        narro "nunca" uwu
+    }
+}

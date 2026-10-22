@@ -1,0 +1,9 @@
+// codigo: 3
+// mensaje: la variable 'a' no fue invocada
+// mensaje: la variable 'b' no fue invocada
+// mensaje: Análisis semántico: 2 error(es)
+shi (chi) {
+    narro a uwu
+} sino {
+    narro b uwu
+}

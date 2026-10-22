@@ -1,0 +1,8 @@
+// codigo: 0
+// mensaje: es mayor
+hechizo esMayor(numerito a, numerito b) lanza vibra {
+    regreso a > b uwu
+}
+shi (esMayor(4, 2)) {
+    narro "es mayor" uwu
+}

@@ -1,0 +1,5 @@
+// codigo: 3
+// mensaje: el hechizo 'saludar' no devuelve valor (es de tipo 'vacio') y no puede usarse como valor
+hechizo saludar() lanza vacio {
+}
+invoco numerito x diay saludar() uwu

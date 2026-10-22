@@ -1,0 +1,7 @@
+// codigo: 3
+// mensaje: la variable 'g' no fue invocada dentro del hechizo 'f'
+// mensaje: solo pueden usar sus ingredientes y variables locales
+invoco numerito g diay 1 uwu
+hechizo f() lanza numerito {
+    regreso g uwu
+}

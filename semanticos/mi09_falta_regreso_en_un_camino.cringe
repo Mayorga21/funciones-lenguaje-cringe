@@ -1,0 +1,8 @@
+// codigo: 3
+// mensaje: el hechizo 'f' debe devolver un valor 'numerito' en todos los caminos
+// mensaje: falta 'regreso' en algún camino del 'shi'
+hechizo f(vibra c) lanza numerito {
+    shi (c) {
+        regreso 1 uwu
+    }
+}

@@ -1,0 +1,8 @@
+// codigo: 3
+// mensaje: la variable 'g' no fue invocada dentro del hechizo 'f'
+invoco vibra g diay chi uwu
+hechizo f() lanza vacio {
+    shi (g) {
+        narro "no deberia verse" uwu
+    }
+}

@@ -1,0 +1,5 @@
+// codigo: 3
+// mensaje: la condición del 'shi' debe ser de tipo 'vibra' pero es de tipo 'numerito'
+shi (5) {
+    narro "nunca" uwu
+}

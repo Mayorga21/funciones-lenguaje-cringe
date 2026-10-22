@@ -1,0 +1,19 @@
+// codigo: 0
+// mensaje: regreso "adulto"
+// mensaje: regreso "menor"
+// mensaje: adulto
+hechizo clasificar(numerito edad) lanza pergamino {
+    shi (edad >= 18) {
+        regreso "adulto" uwu
+    } sino {
+        regreso "menor" uwu
+    }
+}
+hechizo clasificar2(numerito edad) lanza pergamino {
+    shi (edad >= 18) {
+        regreso "adulto" uwu
+    }
+    regreso "menor" uwu
+}
+narro clasificar(20) uwu
+narro clasificar2(5) uwu

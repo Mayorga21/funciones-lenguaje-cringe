@@ -1,0 +1,5 @@
+// codigo: 3
+// mensaje: argumento 1 de 'f': se esperaba 'numerito' pero se recibió 'flotadito'
+hechizo f(numerito a) lanza vacio {
+}
+f(2.5) uwu

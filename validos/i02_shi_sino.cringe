@@ -1,0 +1,9 @@
+// codigo: 0
+// mensaje: sino
+// mensaje: Aun eres aprendiz
+invoco numerito nivel diay 3 uwu
+shi (nivel > 10) {
+    narro "Entras al gremio" uwu
+} sino {
+    narro "Aun eres aprendiz" uwu
+}

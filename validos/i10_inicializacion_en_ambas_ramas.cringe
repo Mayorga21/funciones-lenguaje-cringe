@@ -1,0 +1,10 @@
+// codigo: 0
+// mensaje: etiqueta (pergamino) <- "alto"
+invoco numerito p diay 9 uwu
+invoco pergamino etiqueta uwu
+shi (p > 5) {
+    etiqueta trans "alto" uwu
+} sino {
+    etiqueta trans "bajo" uwu
+}
+narro etiqueta uwu

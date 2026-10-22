@@ -1,0 +1,7 @@
+// codigo: 0
+// mensaje: línea 5: regreso
+hechizo f() lanza vacio {
+    narro "a" uwu
+    regreso uwu
+}
+f() uwu

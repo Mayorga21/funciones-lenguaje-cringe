@@ -1,0 +1,11 @@
+// codigo: 0
+// mensaje: rango B
+// mensaje: Sino
+invoco numerito poder diay 50 uwu
+shi (poder > 90) {
+    narro "rango S" uwu
+} sino shi (poder > 40) {
+    narro "rango B" uwu
+} sino {
+    narro "rango F" uwu
+}

@@ -1,0 +1,8 @@
+// codigo: 3
+// mensaje: tipos incompatibles: el hechizo 'f' devuelve 'numerito' pero se intenta devolver un valor 'pergamino'
+hechizo f(vibra c) lanza numerito {
+    shi (c) {
+        regreso "hola" uwu
+    }
+    regreso 0 uwu
+}

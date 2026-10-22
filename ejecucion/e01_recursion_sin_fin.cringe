@@ -1,0 +1,8 @@
+// codigo: 5
+// mensaje: error de ejecución: el hechizo 'bucle' se lanzó más de 200 veces seguidas
+hechizo bucle(vibra seguir) lanza vacio {
+    shi (seguir) {
+        bucle(chi) uwu
+    }
+}
+bucle(chi) uwu

@@ -1,0 +1,9 @@
+// codigo: 3
+// mensaje: Análisis semántico: 4 error(es)
+// mensaje: No se ejecuta el programa porque hay errores semánticos
+hechizo f(numerito a) lanza numerito {
+    regreso "x" uwu
+}
+f() uwu
+g(1) uwu
+invoco numerito v diay f(1, 2) uwu

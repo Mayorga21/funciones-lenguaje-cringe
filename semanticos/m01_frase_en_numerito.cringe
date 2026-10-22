@@ -1,0 +1,3 @@
+// codigo: 3
+// mensaje: tipos incompatibles: no se puede guardar un valor 'pergamino' en la variable 'edad' de tipo 'numerito'
+invoco numerito edad diay "veinte" uwu

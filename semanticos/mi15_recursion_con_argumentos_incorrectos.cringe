@@ -1,0 +1,7 @@
+// codigo: 3
+// mensaje: el hechizo 'f' espera 1 argumento(s) pero recibió 0
+hechizo f(vibra c) lanza vacio {
+    shi (c) {
+        f() uwu
+    }
+}

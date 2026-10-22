@@ -1,0 +1,7 @@
+// codigo: 3
+// mensaje: el operador '&&' necesita valores 'vibra', pero recibió un valor 'numerito'
+// mensaje: el operador '||' necesita valores 'vibra', pero recibió un valor 'pergamino'
+// mensaje: el operador '!' necesita un valor 'vibra', pero recibió un valor 'numerito'
+invoco vibra a diay 1 && chi uwu
+invoco vibra b diay nio || "x" uwu
+invoco vibra c diay !7 uwu
